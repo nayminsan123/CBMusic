@@ -17,7 +17,7 @@ bot = Bot(
     plugins=dict(root="handlers"),
 )
 
-print("[INFO]: CYBERMUSIC STARTED!")
+print("[INFO]: NmS MUSIC STARTED!")
 
 bot.start()
 run()
